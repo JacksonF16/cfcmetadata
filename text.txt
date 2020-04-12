@@ -51,40 +51,40 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "TEM",
-          "prestige" : "82",
+          "abbreviation" : "DMI",
+          "prestige" : "0",
           "hexColor" : "#940000",
           "rival" : "ECU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2019",
-            "age" : "45",
-            "ratOff" : "82",
-            "cumulativePrestige" : "25",
-            "ratDef" : "92",
+            "age" : "0",
+            "ratOff" : "0",
+            "cumulativePrestige" : "0",
+            "ratDef" : "0",
             "homeState" : "Virginia",
-            "ratPot" : "67",
-            "ratTalent" : "95",
-            "baselinePrestige" : "76",
-            "ratDiscipline" : "48",
-            "ratOvr" : "79",
+            "ratPot" : "0",
+            "ratTalent" : "0",
+            "baselinePrestige" : "0",
+            "ratDiscipline" : "0",
+            "ratOvr" : "0",
             "name" : "Gabriel Trenh",
             "contractYear" : "0"
           },
-          "name" : "Temple",
-          "state" : "Pennsylvania"
+          "name" : "DMI",
+          "state" : "Delaware"
         },
         {
-          "abbreviation" : "TUL",
+          "abbreviation" : "DEL",
           "prestige" : "76",
           "hexColor" : "#147fff",
-          "rival" : "MEM",
+          "rival" : "DMI",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2019",
             "age" : "40",
             "ratOff" : "88",
-            "cumulativePrestige" : "25",
+            "cumulativePrestige" : "35",
             "ratDef" : "88",
             "homeState" : "Tennessee",
             "ratPot" : "63",
@@ -95,8 +95,8 @@
             "name" : "Umar Crickmore",
             "contractYear" : "0"
           },
-          "name" : "Tulsa",
-          "state" : "Oklahoma"
+          "name" : "Delaware",
+          "state" : "Delaware"
         },
         {
           "abbreviation" : "NAVY",
@@ -2143,7 +2143,7 @@
             "name" : "Solomon Tamayo",
             "contractYear" : "1"
           },
-          "name" : "Raleigh",
+          "name" : "Georgia",
           "state" : "North Carolina"
         },
         {
